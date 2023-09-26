@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="app_name">#f4f835</color>
+    <color name="optional_bar">#35f1f8</color>
+    <color name="button_pallete">#e135f8</color>
 </resources>
